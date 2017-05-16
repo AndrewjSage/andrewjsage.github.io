@@ -81,7 +81,7 @@ img::-moz-selection {
 }
 
 img {
-  max-width: 300%;
+  max-width: 100%;
 }
 
 .disqus-comments {
@@ -200,7 +200,7 @@ img {
   }
   
   .navbar-custom .avatar-container  .avatar-img {
-    width: 100%;
+    width: 500%;
   }
 }
 
