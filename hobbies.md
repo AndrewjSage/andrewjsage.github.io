@@ -1,5 +1,15 @@
 ---
 layout: page
+title: Hobbies
 ---
 
-I am a graduate student in the department of statistics at Iowa State University.
+<div id="pic" align="left">
+  
+  <img src="img/Snedpic.jpg" alt="me" style="float:left; padding-right: 10px" width="240px" height="240px">
+    
+    I am a graduate student in the <a href="http://www.stat.iastate.edu/"> Department of Statistics </a> at <a href="http://www.iastate.edu/">Iowa State University</a>. I expect to earn my Ph.D. in Spring 2018. Working with students inspires me and I hope to join the faculty of an institution that highly values teaching and the mentoring of undergraduate researchers.
+   
+    </p>I have experience teaching a wide range of introductory and intermediate undergraduate courses in statistics and mathematics. My research interests include statistical machine learning and data mining. As a member of an interdisciplinary team, I use predictive analytics to improve student experiences and retention in STEM majors at Iowa State. 
+    
+   </p>Please visit my <a href="https://andrewjsage.github.io/teaching/"> teaching </a> and <a href="https://andrewjsage.github.io/research/"> research </a> pages or see my <a href="Curriculum Vitae.pdf"> CV </a> to learn more. Check out my <a href="https://andrewjsage.github.io/hobbies/"> hobbies </a> page to find out what I enjoy. 
+    </p>

@@ -11,7 +11,7 @@ My collegiate teaching experience includes the following courses.
 
 **Iowa State University:**
 
-* STAT 231: Probability and Statistical Inference for Engineers (Spring 2017, and will teach Fall 2017) 
+* STAT 231: Probability and Statistical Inference for Engineers (Spring 2017, Fall 2017) 
 
 * STAT 330: Probability and Statistics for Computer Science (Fall 2016)
 
@@ -24,4 +24,4 @@ My collegiate teaching experience includes the following courses.
 * MATH 123: Precalculus (Fall 2012, Spring 2013, Fall 2013)
 
 
-Before pursuing graduate school, I enjoyed four years as a mathematics teacher at Bloomfield High School in Northeastern Ohio, where I taught courses ranging from geometry through calculus. 
+Before pursuing graduate school, I enjoyed four years as a mathematics teacher at <a href="https://www.bloomfieldmespolocal.org/"> Bloomfield High School </a> in Northeastern Ohio, where I taught courses ranging from geometry through calculus. 
