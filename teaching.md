@@ -5,7 +5,7 @@ title: Teaching
 
 When I am excited  by a topic, my first reaction is to share it, in hope of inspiring the same enthusiasm in others. When my students share my passion for analyzing data, this brings me great intrinsic reward. I find personal and small group interactions with my students very valuable and I try to create opportunities for these to occur both inside and outside the classroom. It is important that my students know I want them to succeed and I strive to create an environment where students are comfortable taking risks that will result in learning. 
 
-Learning results from engagement of the brain and subsequent reflection. It is my responsibility as an educator to create situations for this to occur. Through my participation in Iowa State's Preparing Future Faculty program and Project LEA/RN, I work with experts in the University's Center for Excellence in Learning and Teaching to design and implement active learning strategies in my classes. 
+Learning results from engagement of the brain and subsequent reflection. It is my responsibility as an educator to create situations for this to occur. Through my participation in Iowa State's <a href="http://www.celt.iastate.edu/graduate-students-postdocs/preparing-future-faculty"> Preparing Future Faculty program</a>, I work with experts in the University's <a href="http://www.celt.iastate.edu/"> Center for Excellence in Learning and Teaching  </a> to design and implement active learning strategies in my classes. 
 
 My collegiate teaching experience includes the following courses. 
 
