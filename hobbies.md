@@ -10,4 +10,5 @@ In this picture, my brother Tim and I attend a game in Chicago.
 
 
 In recent years, I have taken an interest in running and have completed three half-marathons. I also enjoy reading mystery/crime novels and spending time with my sister and brothers. 
+
  ![alt text](img/race.jpg)
