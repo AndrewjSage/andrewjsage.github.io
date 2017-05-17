@@ -3,9 +3,9 @@ layout: page
 title: Teaching
 ---
 
-When I am excited  by a topic, my first reaction is to share it, in hope of inspiring the same enthusiasm in others. When my students share my passion for analyzing data, this brings me great intrinsic reward. I find personal and small group interactions with my students very valuable and I try to create opportunities for these to occur both inside and outside the classroom. It is important that my students know I want them to succeed and I strive to create an environment where students are comfortable taking risks that will result in learning. 
+When I find a topic exciting, my first reaction is to share it, in hope of inspiring the same enthusiasm in others. When my students share my passion for analyzing data, it brings me great intrinsic reward. I find personal and small group interactions with my students valuable and try to create opportunities for these to occur inside and outside the classroom. It is important for my students to know that I want them to succeed and I strive to create an environment where students are comfortable and willing to take risks. 
 
-Learning results from engagement of the brain and subsequent reflection. It is my responsibility as an educator to create situations for this to occur. Through my participation in Iowa State's <a href="http://www.celt.iastate.edu/graduate-students-postdocs/preparing-future-faculty"> Preparing Future Faculty program</a>, I work with experts in the University's <a href="http://www.celt.iastate.edu/"> Center for Excellence in Learning and Teaching  </a> to design and implement active learning strategies in my classes. 
+Learning results from engagement of the brain and subsequent reflection. As an educator, I seek to create situations where this can occur.  Through my participation in Iowa State's <a href="http://www.celt.iastate.edu/graduate-students-postdocs/preparing-future-faculty"> Preparing Future Faculty program</a>, I work with experts in the University's <a href="http://www.celt.iastate.edu/"> Center for Excellence in Learning and Teaching  </a> to design and implement active learning strategies in my classes. 
 
 My collegiate teaching experience includes the following courses. 
 
