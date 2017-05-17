@@ -5,7 +5,7 @@ title: Research
 
 **Random Forest Methodology**
 
-Since their creation by ```html <a href="https://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm"> Leo Breiman </a>``` in 2001, random forests have emerged as a powerful prediction technique in classification and regression problems. This tree-based approach is especially popular when working with datasets containing a large number of predictor variables, and the potential for complicated interactions. My dissertation proposes a method for improving random forest robustness when training data are contaminated. I also study optimal ways to aggregate tree predictions, and the use of random forests to assess variable importance. This research is joint worth with my major professors Ulrike Genschel and Dan Nettleton.
+Since their creation by <a href="https://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm"> Leo Breiman </a> in 2001, random forests have emerged as a powerful prediction technique in classification and regression problems. This tree-based approach is especially popular when working with datasets containing a large number of predictor variables, and the potential for complicated interactions. My dissertation proposes a method for improving random forest robustness when training data are contaminated. I also study optimal ways to aggregate tree predictions, and the use of random forests to assess variable importance. This research is joint worth with my major professors Ulrike Genschel and Dan Nettleton.
 
 **STEM Retention at Iowa State University**
 
