@@ -1,27 +1,26 @@
 ---
 layout: page
-title: Teaching
----
-
-When I am excited  by a topic, my first reaction is to share it, in hope of inspiring the same enthusiasm in others. When my students share my passion for analyzing data, this brings me great intrinsic reward. I find personal and small group interactions with my students very valuable and I try to create opportunities for these to occur both inside and outside the classroom. It is important that my students know I want them to succeed and I strive to create an environment where students are comfortable taking risks that will result in learning. 
-
-Learning results from engagement of the brain and subsequent reflection. It is my responsibility as an educator to create situations for this to occur. Through my participation in Iowa State's <a href="http://www.celt.iastate.edu/graduate-students-postdocs/preparing-future-faculty"> Preparing Future Faculty program</a>, I work with experts in the University's <a href="http://www.celt.iastate.edu/"> Center for Excellence in Learning and Teaching  </a> to design and implement active learning strategies in my classes. 
-
-My collegiate teaching experience includes the following courses. 
-
-**Iowa State University:**
-
-* STAT 231: Probability and Statistical Inference for Engineers (Spring 2017, Fall 2017) 
-
-* STAT 330: Probability and Statistics for Computer Science (Fall 2016)
-
-* STAT 104: Introduction to Statistics (Fall 2014) 
-
-**Miami University**
-
-* MATH 151: Calculus I (Spring 2013)
-
-* MATH 123: Precalculus (Fall 2012, Spring 2013, Fall 2013)
+title: Activities & Projects
+----
 
 
-Before pursuing graduate school, I enjoyed four years as a mathematics teacher at <a href="https://www.bloomfieldmespolocal.org/"> Bloomfield High School </a> in Northeastern Ohio, where I taught courses ranging from geometry through calculus. 
+The following are two team-based assignments that I created for use in my Spring 2017 engineering statistics course. Both involve teams to performing a statistical task and competing to obtain optimal results. Teams are assessed primarily on their ability to explain and defend their reasoning. 
+
+
+**Linear Regression Team Project**
+
+In this project, students work in teams to analyze a complex real dataset with application in engineering. The project is meant to illustrate the challenges of modeling such data and requires students to carefully defend their model selections. In my Spring 2017 class, all 17 groups produced different models. The project involves a competition in which students use their models to predict the strength of batches of concrete not contained in the training data. 
+
+This project is motivated by a paper by <a href="https://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm"> Yeh </a>and uses <a href="https://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm"> data </a> from the <a href="https://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm"> UCI Machine Learning Repository</a>.
+
+Project Instructions
+Grading Rubric
+
+
+**Introduction to Confidence Interval Activity**
+
+This in-class lab is meant to introduce students to the intuition behind confidence intervals for a population mean. Before class, each student generates a random sample of data from a normal distribution with a mean of their choosing, and fixed variance. These samples are shared with the class and students work in teams to determine ``reasonable" ranges of values that others might have used to generate their data. Intervals are scored according to their width, with intervals not containing the true parameter penalized heavily. The team with the lowest score wins. This highlights the need for intervals that are as narrow as possible, but still likely to contain the true value, motivating the study of confidence intervals. 
+
+The activity can be repeated with students choosing the variance used to generate their data, in order to illustrate the need for t-distributions. In the future, I intend to extend this activity to involve prediction intervals as well.
+
+Activity Instructions
