@@ -16,6 +16,8 @@ In this project, students work in teams to analyze a complex real dataset with a
 
 This project is motivated by a paper by <a href="https://www.researchgate.net/profile/I_Cheng_Yeh/publication/222447231_Modeling_of_Strength_of_High-Performance_Concrete_Using_Artificial_Neural_Networks_Cement_and_Concrete_research_2812_1797-1808/links/558ca18a08ae591c19da08ba/Modeling-of-Strength-of-High-Performance-Concrete-Using-Artificial-Neural-Networks-Cement-and-Concrete-research-2812-1797-1808.pdf"> Yeh</a>[^1] and uses <a href="https://archive.ics.uci.edu/ml/datasets/Concrete+Compressive+Strength"> data </a> from the <a href="http://archive.ics.uci.edu/ml/"> UCI Machine Learning Repository</a>.
 
+[^1]: I-Cheng Yeh,"Modeling of strength of high performance concrete using articial neural networks," Cementand Concrete Research, Vol. 28, No. 12, pp. 1797-1808 (1998).
+
 
 **Introduction to Estimation: Guess the Mean Activity**
 
