@@ -8,7 +8,8 @@ The following are two team-based assignments that I created for use in my Spring
 
 **Linear Regression Team Project**
 
-<a href="Project_Description.pdf"> Project Instructions </a>
+<a href="Project_Description.pdf"> Project Instructions </a> 
+
 <a href="Rubric.pdf"> Grading Rubric </a>
 
 In this project, students work in teams to analyze a complex real dataset with application in engineering. The project is meant to illustrate the challenges of modeling such data and requires students to carefully defend their model selections. In my Spring 2017 class, all 17 groups produced different models. The project involves a competition in which students use their models to predict the strength of batches of concrete not contained in the training data. In addition to their report, students write a cover letter to a fictional concrete producing company, explaining their findings. 
