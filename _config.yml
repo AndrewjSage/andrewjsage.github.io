@@ -23,7 +23,9 @@ description: Website of Andrew J. Sage
 
 # List of links in the navigation bar
 navbar-links:
-  Teaching: "teaching"
+  Teaching: 
+    - My Teaching: "teaching"
+    - Activities & Projects: "projects"
   Research: "research"
   CV: "Curriculum Vitae.pdf"
   Hobbies: "hobbies"
