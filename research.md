@@ -13,7 +13,7 @@ I am a member of a collaborative team of researchers working to improve student 
 
 **Scholarship of Teaching and Learning**
 
-Teaching, like any other science, is furthered by research. By investigating and publishing on effectiveness of the strategies we use in the classroom we gain valuable insight into the learning process. In my Spring 2017 engineering statistics course, students completed a project involving the use of complex, non-textbook data with applications in engineering. Our research focused on the impact of such a project on students' perceptions of the importance of statistical inference. This project is joint work with Ulrike Genschel and will be shared at the 2017 <a href="https://www.causeweb.org/cause/uscots/uscots17"> United States Conference on Teaching Statistics (USCOTS)</a>.
+Teaching, like any other science, is furthered by research. By investigating and publishing on effectiveness of the strategies we use in the classroom we gain valuable insight into the learning process. In my Spring 2017 engineering statistics course, students completed a project involving the use of complex, non-textbook data with applications in engineering. Our research focused on the impact of such a project on students' perceptions of the importance of statistical inference. This project is joint work with Ulrike Genschel and was presented at the 2017 <a href="https://www.causeweb.org/cause/uscots/uscots17"> United States Conference on Teaching Statistics (USCOTS)</a>.
 
 **Application of Optimization in Statistics**
 
