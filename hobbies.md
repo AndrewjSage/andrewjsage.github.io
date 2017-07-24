@@ -9,6 +9,6 @@ Here, my brother and I catch a ballgame together.
 ![alt text](img/game.jpg) 
 
 
-In recent years, I have taken an interest in running and have completed three half-marathons. I also enjoy reading mystery/crime novels and spending time with my sister and brothers. 
+In recent years, I have taken an interest in running and have completed four half-marathons. I also enjoy reading mystery/crime novels and spending time with my sister and brothers. 
 
  ![alt text](img/race.jpg)
