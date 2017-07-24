@@ -4,9 +4,9 @@ title: Activities and Projects
 ---
 
 
-**Randomization Tests**
+**Saint Michael's College: Randomization Tests**
 
-<a href="Project_Description.pdf"> Project Instructions </a> 
+<a href="Randomization Tests.html"> Saint Michael's College: Randomization Tests </a> 
 
 
 
