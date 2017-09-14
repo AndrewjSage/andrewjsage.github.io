@@ -1,0 +1,85 @@
+---
+title: "A Discussion on the Role of Data Visualization in Undergraduate Statistical Education"
+author: "Graphics Working Group"
+data: "September 14, 2017"
+output: ioslides_presentation
+header-includes:
+   - \usepackage{amsmath}
+widescreen: true
+
+---
+
+## Discussion Overview
+
+This discussion is intended to draw on the 2015 paper by Nolan & Perrett as well as your own teaching and learning experiences.
+
+Paper: [https://arxiv.org/pdf/1503.00781.pdf](https://arxiv.org/pdf/1503.00781.pdf)
+
+Nolan, D., & Perrett, J. (2016). Teaching and learning data visualization: Ideas and assignments. The American Statistician, 70(3), 260-269.
+
+## GAISE Report
+
+*"Software not only facilitates the creation and 
+manipulation of traditional statistical graphs, it has 
+also introduced new methods of visualizing large data sets
+in ways that can stimulate insight and 
+curiosity among undergraduates (and their teachers)...Such graphing
+tools are engaging and fun, and they invite 
+the kind of exploration that lies at the heart of 
+statistical thinking."*
+
+-GAISE College Report ASA Revision Committee, “Guidelines for Assessment and Instruction in 
+Statistics Education College Report 2016,” http://www.amstat.org/education/gaise
+
+Discussion Question:  
+What computational/graphical skills are most important for an undergraduate student who plans to enter industry with a B.S. in statistics/data science? How might instructors create opportunities for students to develop these skills?
+
+
+
+## Example Assignments
+
+Discussion Question:  
+
+In Section 3, Nolan & Perrett describe five example assignments. Which of these assignments do you think would be most beneficial for students? Do you have concerns about any of these assignments?
+
+1. Deconstruct and Reconstruct a Plot
+2. One-Minute Revelation
+3. Copy the Master
+4. Convert Tables to Pictures
+5. Interactive Visualization: [GapMinder](http://www.gapminder.org/tools/#_chart-type=bubbles)
+
+## Deconstruct and Reconstruct a Plot Example
+```{r fig.width=10, fig.height=4,echo=FALSE}
+library(png)
+library(grid)
+img <- readPNG("Cal_Vote.png")
+ grid.raster(img)
+```
+Nolan & Perrett (2015)
+
+##Napoleon's March
+```{r fig.width=8, fig.height=5,echo=FALSE}
+library(png)
+library(grid)
+img <- readPNG("Napoleon.png")
+ grid.raster(img)
+```
+[https://en.wikipedia.org/wiki/Charles_Joseph_Minard](https://en.wikipedia.org/wiki/Charles_Joseph_Minard)
+
+## Discussion Question #3
+What new resources, particularly related to interactive graphics, are now available and how might we integrate these into undergraduate statistics courses? (I imagine that section 3.5 of this paper is already out of date.)
+
+## Discussion Question #4
+In Section 5, Nolan & Perrett describe their method for assessing student work. Do you believe their matrix of competencies provides an accurate assessment of learning? Why or why not?
+
+## Competency Matrix 
+ ```{r fig.width=10, fig.height=6,echo=FALSE}
+library(png)
+library(grid)
+img <- readPNG("Nolan_Comp.png")
+ grid.raster(img)
+```
+
+## Discussion Question #5
+
+The emphasis on data visualization has increased considerably in the past decade but there are still skeptics. What compelling arguments might we use to justify the use of graphics as a vital part of statistical reasoning at the undergraduate level?
