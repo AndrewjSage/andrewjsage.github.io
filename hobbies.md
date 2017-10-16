@@ -3,7 +3,8 @@ layout: page
 title: Hobbies
 ---
 
-I enjoy running and have recently begun competing in distance races. I have run four half-marathons and am currently training for the 2017 Des Moines Marathon. 
+I enjoy running and recently completed the 2017 Des Moines Marathon, my first race of that distance. I have also completed four half-marathons. 
+
  ![alt text](img/race.jpg)
 
 
