@@ -29,4 +29,4 @@ The activity can be repeated with students also choosing the variance to be used
 
 **Experiments and Observational Studies Teaching Demonstration**
 
-<a href="A_Walk_through_a_Random_Forest.pdf"> These </a> are the slides for a 20 minute teaching demonstration on experiments and observational studies. 
+<a href="Obs._Studies_and_Experiments.html"> These </a> are the slides for a 20 minute teaching demonstration on experiments and observational studies. 
