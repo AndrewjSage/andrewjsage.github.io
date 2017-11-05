@@ -24,3 +24,4 @@ My collegiate teaching experience includes the following courses.
 * MATH 123: Precalculus (Fall 2012, Spring 2013, Fall 2013)
 
 Before pursuing graduate school, I enjoyed four years as a mathematics teacher at <a href="https://www.bloomfieldmespolocal.org/"> Bloomfield High School </a> in Northeastern Ohio, where I taught courses ranging from geometry through calculus. 
+
