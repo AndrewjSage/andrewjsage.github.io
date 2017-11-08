@@ -27,6 +27,3 @@ This in-class lab introduces students to the notion of estimating a fixed, unkno
 
 The activity can be repeated with students also choosing the variance to be used when generate their data, in order to motivate the study of t-distributions. In the future, I intend to extend this activity to involve prediction intervals as well.
 
-**Experiments and Observational Studies Teaching Demonstration**
-
-<a href="Obs._Studies_and_Experiments.html"> These </a> are the slides for a 20 minute teaching demonstration on experiments and observational studies. 
