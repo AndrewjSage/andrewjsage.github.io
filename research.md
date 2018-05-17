@@ -3,7 +3,9 @@ layout: page
 title: Research
 ---
 
-**Random Forest Methodology**
+My current research focuses primarily on the development and application of methods in statistical machine learning. Below are descriptions of some of my recent projects. 
+
+**Enhancements in Random Forest Methodology**
 
 Since their creation by <a href="https://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm"> Leo Breiman </a> in 2001, random forests have emerged as a powerful prediction technique in classification and regression problems. This tree-based approach is especially popular when working with datasets that contain a large number of predictor variables and potentially complicated interactions. My dissertation proposes a robust procedure designed to improve random forest predictions when there is contamination of the training data. I also study optimal ways to aggregate tree predictions, and the use of random forests to assess variable importance. This research is joint work with my major professors <a href="http://stat.iastate.edu/people/ulrike-genschel"> Ulrike Genschel </a> and <a href="http://stat.iastate.edu/people/dan-nettleton"> Dan Nettleton</a>.
 

@@ -3,7 +3,7 @@ layout: page
 title: Hobbies
 ---
 
-I enjoy running and recently completed the 2017 Des Moines Marathon, my first race of that distance. I have also completed four half-marathons. 
+I enjoy running and completed the 2017 Des Moines Marathon, my first race of that distance. I have also completed several half-marathons. 
 
  ![alt text](img/race.jpg)
 
@@ -13,4 +13,4 @@ I am an avid sports fan (Go Cleveland!) and have watched baseball games at 17 di
 Here, my brother and I catch a ballgame together. 
 ![alt text](img/game.jpg) 
 
-
+I also enjoy reading mystery novels and growing fresh fruit, an interest that goes back generations in my family. 
