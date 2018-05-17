@@ -3,7 +3,7 @@ layout: page
 title: Activities and Projects
 ---
 
-The following are two team-based assignments that I created for use in my Spring 2017 engineering statistics course. Both involve teams performing a statistical task and competing to obtain the best results. Teams are assessed primarily on their ability to explain and defend their reasoning. 
+The following are two team-based assignments that I created for use in my engineering statistics courses. Both involve teams performing a statistical task and competing to obtain the best results. Teams are assessed primarily on their ability to explain and defend their reasoning. 
 
 **Linear Regression Team Project**
 
