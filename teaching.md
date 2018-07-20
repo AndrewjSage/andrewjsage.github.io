@@ -5,14 +5,14 @@ title: Learning and Teaching
 
 ## Beliefs about Learning and Teaching
 
-If you are a student in one of my classes, please know that I care about your success. It is important for us to work together to create an environment in which you feel comfortable enough to take the risks that lead to learning. I will frequently ask you for feedback and I encourage you to come to me with ideas for ways that we might better help you learn. 
+If you are a student in one of my classes, it is important for you to know that I want you to succeed. I hope we can work together to create an environment where you feel comfortable enough to take the risks that lead to learning. I encourage you to share with me any ideas for ways we might better help you learn. 
 
-I hope that you will come to see statistics as an investigative process, focused on using data to make and defend decisions. Learning how to reason with data is far more important (and more exciting!) than memorizing and/or plugging into formulas. We will work as a class to practice this kind of reasoning throughout the course. 
+I hope that you will come to see statistics as an investigative process, focused on using data to make and defend decisions. Learning how to reason with data is far more important (and more exciting!) than memorizing and/or plugging into formulas. We will work with each other to practice this kind of reasoning throughout the course. 
 
 My teaching philosophy is shaped by the following core beliefs about learning: 
 
 1) **Emotion plays a critical role in the learning process.**
-We learn best when working with topics that we are excited about. In statistics courses, you will have opportunities to choose which datasets you work with. I hope that you will see statistics as a vehicle for exploring topics and issues that you care about. 
+We learn best when working with topics that we are excited about. In statistics courses, you will have opportunities to choose datasets to work with. I hope that you will see statistics as a vehicle for exploring topics and issues that you care about. 
 
 2) **Learning is a social process.**
 As teachers can attest, we know that we understand something when we are able to explain it to others. We all share the responsibility of helping each other learn from our own experiences and strengths. For me, one of the best parts of teaching is having the opportunity to learn from my students. 
