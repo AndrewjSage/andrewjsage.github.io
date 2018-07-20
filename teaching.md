@@ -5,7 +5,7 @@ title: Learning and Teaching
 
 ## Beliefs about Learning and Teaching
 
-If you are a student in one of my classes, it is important for you to know that I want you to succeed. I hope we can work together to create an environment where you feel comfortable enough to take the risks that lead to learning. I encourage you to share with me any ideas for ways we might better help you learn. 
+If you are a student in one of my classes, it is important for you to know that I want you to succeed. I hope we can work together to create an environment where you feel comfortable enough to take the risks that lead to learning. I encourage you to share with me any ideas for ways we might better be able to help you learn. 
 
 I hope that you will come to see statistics as an investigative process, focused on using data to make and defend decisions. Learning how to reason with data is far more important (and more exciting!) than memorizing and/or plugging into formulas. We will work with each other to practice this kind of reasoning throughout the course. 
 
