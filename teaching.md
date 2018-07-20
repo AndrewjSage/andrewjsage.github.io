@@ -22,13 +22,14 @@ Learning truly sets in when we pause to think about how new experiences have cha
 
 The following references were especially influential in formulating these thoughts on learning and teaching:
 
+* Carver, R., Everson, M., Gabrosek, J., Horton, N., Lock, R., Mocko, M., ... & Wood, B. (2016). *Guidelines for assessment and instruction in statistics education (GAISE) college report 2016.* Alexandria, VA: American Statistical Association.[Online: www. amstat.org/education/gaise]. 
 * Cavanagh, S. R. (2016). *The Spark of Learning: Energizing the College Classroom with the Science of Emotion.* West Virginia University Press. 
+* Cobb, G. W.  (1992), "Teaching Statistics" in *Heeding the Call for Change*, ed. Lynn Steen, MAA Notes No. 22, Washington: Mathematical Association of America.  
 * Johnson, D. W., Johnson, R. T., & Smith, K. A. (1998). *Active learning: Cooperation in the college classroom.* Interaction Book Company, 7208 Cornelia Drive, Edina, MN 55435. 
+* Leamnson, R. (2000). *Learning as biological brain change.* Change: The magazine of higher learning, 32(6), 34-40. 
 * Michaelsen, L. K., Knight, A. B., & Fink, L. D. (Eds.). (2002). *Team-based learning: A transformative use of small groups.* Greenwood publishing group. 
 * Sibley, J., & Ostafichuk, P. (2015). *Getting started with team-based learning.* Stylus Publishing, LLC. 
-* Cobb, G. W.  (1992), "Teaching Statistics" in *Heeding the Call for Change*, ed. Lynn Steen, MAA Notes No. 22, Washington: Mathematical Association of America.  
-* Carver, R., Everson, M., Gabrosek, J., Horton, N., Lock, R., Mocko, M., ... & Wood, B. (2016). *Guidelines for assessment and instruction in statistics education (GAISE) college report 2016.* Alexandria, VA: American Statistical Association.[Online: www. amstat.org/education/gaise]. 
-* Leamnson, R. (2000). *Learning as biological brain change.* Change: The magazine of higher learning, 32(6), 34-40. 
+
 
 ## Courses Taught
 
