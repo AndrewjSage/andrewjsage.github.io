@@ -5,9 +5,9 @@ title: Learning and Teaching
 
 ## Beliefs about Learning and Teaching
 
-If you are a student in one of my classes, please know that I care about your success. It is important that we work together to create an environment in which you feel comfortable enough to take the risks that will help you learn. 
+If you are a student in one of my classes, please know that I care about your success. It is important for us to work together to create an environment in which you feel comfortable enough to take the risks that lead to learning. I will frequently ask you for feedback and I encourage you to come to me with ideas for ways that we might better help you learn. 
 
-I hope that you will come to see statistics as an investigative process, focused on using data to make and defend decisions. Learning how to reason with data is far more important (and more exciting!) than memorizing and/or plugging into formulas. We will work together to practice this kind of reasoning throughout the course. 
+I hope that you will come to see statistics as an investigative process, focused on using data to make and defend decisions. Learning how to reason with data is far more important (and more exciting!) than memorizing and/or plugging into formulas. We will work as a class to practice this kind of reasoning throughout the course. 
 
 My teaching philosophy is shaped by the following core beliefs about learning: 
 
@@ -15,7 +15,7 @@ My teaching philosophy is shaped by the following core beliefs about learning:
 We learn best when working with topics that we are excited about. In statistics courses, you will have opportunities to choose which datasets you work with. I hope that you will see statistics as a vehicle for exploring topics and issues that you care about. 
 
 2) **Learning is a social process.**
-As teachers can attest, we know that we understand something when we are able to explain it to others. We all share the responsibility of helping each other learn from our own experiences and strengths. Indeed, one of the best parts of teaching is having the opportunity to learn from my students. 
+As teachers can attest, we know that we understand something when we are able to explain it to others. We all share the responsibility of helping each other learn from our own experiences and strengths. For me, one of the best parts of teaching is having the opportunity to learn from my students. 
 
 3) **Learning results from engaging the brain in thought, and then reflecting on that thinking.**
 Learning truly sets in when we pause to think about how new experiences have changed the way we understand the world around us. After class activities, you will frequently have opportunities to reflect on the ways that your thinking has changed, and to ask questions that might surface as a result of that thinking. 
