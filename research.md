@@ -5,7 +5,7 @@ title: Research
 
 I am interested in developing and applying methods for finding relationships in complex datasets. Most of my research lies in the area of statistical machine learning, with focus on <a href="https://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm"> random forest methodology</a>. 
 
-I especially enjoy working collaboratively with researchers in other disciplines. As John Tukey said, "The best thing about being a statistician is that you get to play in everyone’s backyard."" My recent collaborations involve applying statistical methods in education, horticulture, and sports. Other research interests include applications of optimization in statistics, statistical disclosure limitation, and statistics education.
+I especially enjoy working collaboratively with researchers in other disciplines. As John Tukey said, "The best thing about being a statistician is that you get to play in everyone’s backyard." My recent collaborations involve applying statistical methods in education, horticulture, and sports. Other research interests include applications of optimization in statistics, statistical disclosure limitation, and statistics education.
 
 # Publications
 
