@@ -23,7 +23,7 @@ description: Website of Andrew J. Sage
 
 # List of links in the navigation bar
 navbar-links:
-  Teaching: "teaching"
+  Learning and Teaching: "teaching"
 #    - My Teaching: "teaching"
 #    - Activities & Projects: "projects"
   Research: "research"
