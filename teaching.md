@@ -37,7 +37,7 @@ My 2018-19 teaching schedule includes the following Lawrence courses:
 
 * MATH 240: Probability (Fall 2018)  
 
-* MATH 340: Statistical Modeling (Winter 2019)  
+* MATH 430: Statistical Modeling (Winter 2019)  
 
 My prior collegiate teaching experience includes:
 
