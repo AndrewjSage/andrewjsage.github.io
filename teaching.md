@@ -9,7 +9,7 @@ If you are a student, I hope that you will come to see statistics as an investig
 
 My teaching philosophy is shaped by the following core beliefs about learning: 
 
-1) **We learn best when working with topics that excite us.**
+1) **We learn best when working with topics we are excited about.**
 Cognitive learning theory underscores the importance of emotion in our learning. In statistics courses, you will have opportunities to choose datasets to work with. I hope that you will see statistics as a vehicle for exploring topics and issues that you care about. 
 
 2) **Learning is a social process.**
