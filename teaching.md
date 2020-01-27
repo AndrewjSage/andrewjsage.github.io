@@ -9,8 +9,8 @@ If you are a student, I hope that you will come to see statistics as an investig
 
 My teaching philosophy is shaped by the following core beliefs about learning: 
 
-1) **Emotion plays a critical role in the learning process.**
-We learn best when working with topics that we are excited about. In statistics courses, you will have opportunities to choose datasets to work with. I hope that you will see statistics as a vehicle for exploring topics and issues that you care about. 
+1) **We learn best when working with topics that excite us.**
+Cognitive learning theory underscores the importance of emotion in our learning. In statistics courses, you will have opportunities to choose datasets to work with. I hope that you will see statistics as a vehicle for exploring topics and issues that you care about. 
 
 2) **Learning is a social process.**
 As teachers can attest, we know that we understand something when we are able to explain it to others. We all share the responsibility of helping each other learn from our own experiences and strengths. For me, one of the best parts of teaching is having the opportunity to learn from my students. 
@@ -31,13 +31,18 @@ The following references were especially influential in formulating these though
 
 ## Courses Taught
 
-My 2018-19 teaching schedule includes the following Lawrence courses:
+**Lawrence University**
 
-* MATH 107: Elementary Statistics  (Fall 2018, Winter 2019, Spring 2019)
+* CMSC 205: Data-Scientific Programming (Winter 2020)
+
+* MATH 107: Elementary Statistics  (Fall 2018, Winter 2019, Spring 2019, Fall 2018)
+
+* FRST 100: Freshman Studies (Fall 2019)
 
 * MATH 240: Probability (Fall 2018)  
 
 * MATH 430: Statistical Modeling (Winter 2019)  
+
 
 My prior collegiate teaching experience includes:
 
