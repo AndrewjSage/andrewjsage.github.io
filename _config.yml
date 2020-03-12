@@ -23,6 +23,7 @@ description: Website of Andrew J. Sage
 
 # List of links in the navigation bar
 navbar-links:
+#  Statistics at Lawrence "LUStatistics"
   Learning and Teaching: "teaching"
 #    - My Teaching: "teaching"
 #    - Activities & Projects: "projects"
