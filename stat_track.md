@@ -17,7 +17,7 @@ The mathematics major: statistics track requires 11 courses plus senior experien
 * Statistics for Data Science (STAT 255)    
 * Data-Scientific Programming (CMSC/STAT 205) or Machine Learning (CMSC/STAT 208)     
 * Probability (MATH/STAT 340)     
-* Two of: Mathematical Statistics (STAT 445), Bayesian Statistics (STAT 450), Advanced Statistical Modeling(STAT 455)    
+* Two of: Mathematical Statistics (STAT 445), Bayesian Statistics (STAT 450), Advanced Statistical Modeling (STAT 455)    
 * One additional MATH course at 400 or 500 level    
 * Senior Experience
 

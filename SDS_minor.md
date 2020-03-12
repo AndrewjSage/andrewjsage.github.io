@@ -15,13 +15,13 @@ The statistics and data science minor requires 6 courses. At most three may coun
 * Data-Scientific Programming (CMSC/STAT 205)    
 * Statistics for Data Science (STAT 255)     
 
-#### Elective Stat/DS Science courses (choose two)    
+#### Category One electives (choose two)    
 * Machine Learning (CMSC/STAT 208)     
 * Advanced Data Computing (CMSC/STAT 405)     
 * Bayesian Statistics (STAT 450)     
 * Advanced Statistical Modeling (STAT 455)    
 
-#### Elective Courses  (choose two)
+#### Category Two electives  (choose two)
 * ANTH 207: Quantitative Analysis in Anthropology
 * BIOL 170: Integrative Biology: Experimental Design and Statistics
 * BIOL 360: Introduction to Bioinformatics
