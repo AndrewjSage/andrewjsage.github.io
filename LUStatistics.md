@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Learning and Teaching
+title: Statistics at Lawrence
 ---
 
 Lawrence offers a statistics track within the mathematics major, as well as a statistics and data science minor. 
