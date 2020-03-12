@@ -25,9 +25,9 @@ The mathematics major: statistics track requires 11 courses plus senior experien
 * One additional MATH course at 400 or 500 level    
 * Senior Experience
 
-## Requirements for Statistics and Data Science Minor (6 courses)
+## Requirements for Statistics and Data Science Minor 
 
-The statistics and data science minor requires six courses. At most three may count for any one other major or minor. 
+The statistics and data science minor requires 6 courses. At most three may count for any one other major or minor. 
 
 #### Required courses
 * Data-Scientific Programming (CMSC/STAT 205)    
