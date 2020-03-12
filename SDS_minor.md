@@ -39,7 +39,7 @@ The statistics and data science minor requires 6 courses. At most three may coun
 * GOVT 538: Outside the Margin of Error: Polling and Quantitative Prediction in Modern Politics 
 * MATH 340: Probability 
 * PSYCH 280: Research Methods I
-* PSYCH 281: Research Methods II
+* PSYCH 281: Research Methods II   
 * STAT 445: Mathematical Statistics
 * STAT 450: Bayesian Statistics
 

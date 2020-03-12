@@ -23,7 +23,7 @@ description: Website of Andrew J. Sage
 
 # List of links in the navigation bar
 navbar-links:
-  Statistics at Lawrence: 
+  Statistics at Lawrence:   
    - Mathematics Major - Statistics Track: "stat_track"  
    - Statistics and Data Science Minor: Statistics Track: "SDS_minor" 
    - Statistics Courses: "stat_courses" 
