@@ -1,68 +1,82 @@
 ---
 layout: page
-title: Statistics at Lawrence
+title: Statistics Courses
 ---
 
-Lawrence offers a statistics track within the mathematics major, as well as a statistics and data science minor. 
+#### STAT 107: Principles of Statistics
 
-The statistics track to the mathematics major might be of interest to students interested in careers or graduate school in statistics and data science. 
+For students in all disciplines. Provides the background needed to evaluate statistical arguments found in newspapers, magazines, reports, and journals and the logic and techniques necessary to perform responsible elementary statistical analysis. Topics include basic data analysis, one-variable regression, experimental and sampling design, random variables, sampling distributions, and inference (confidence intervals and significance testing).<b> This course does not count toward the mathematics major or the statistics and data science minor. Students with credit for any of MATH 140 (or equivalent), BIOL 170, or AP Statistics should not take this course and should instead consider STAT 255. Students with credit for MATH 120 should consult with a member of the mathematics department for statistics placement guidance. </b>         
 
-The statistics and data science minor is ideal for students majoring in an area other than mathematics, who are interested in analyzing data within their field of interest. 
+<b>Prerequisite: </b> None      
 
-Students who earn the mathematics major: statistics track are not eligible to also earn the statistics and data science minor. Students who earn the mathematics major, without the statistics track, are eligible for the statistics and data science minor. 
 
-## Requirements for Mathematics Major: Statistics Track  
 
-The mathematics major: statistics track requires 11 courses plus senior experience. 
+<b>2020-21:</b> offered all three terms
 
-* Calculus sequence (MATH 140, MATH 155, MATH 200)     
-* Discrete Mathematics (MATH 230)     
-* Linear Algebra (MATH 250)     
-* Statistics for Data Science (STAT 255)    
-* Data-Scientific Programming (CMSC/STAT 205) or Machine Learning (CMSC/STAT 208)     
-* Probability (MATH/STAT 340)     
-* Two of: Mathematical Statistics (STAT 445), Bayesian Statistics (STAT 450), Advanced Statistical Modeling(STAT 455)    
-* One additional MATH course at 400 or 500 level    
-* Senior Experience
 
-## Requirements for Statistics and Data Science Minor 
+#### CMSC/STAT 205: Data-Scientific Programming
 
-The statistics and data science minor requires 6 courses. At most three may count for any one other major or minor. 
+An introduction to programming with emphasis on learning from data in order to gain useful insights. Topics focus on elementary programming concepts in the R language and the necessary tools to handle, analyze and interpret data. This course will be taught in a workshop format, and students will complete regular assignments and a final project that provide hands-on programming/analysis experiences.    
 
-#### Required courses
-* Data-Scientific Programming (CMSC/STAT 205)    
-* Statistics for Data Science (STAT 255)     
+<b>Prerequisite: </b> One prior course in mathematics, computer science or statistics, or instructor consent.     
 
-#### Elective Stat/DS Science courses (choose two)    
-* Machine Learning (CMSC/STAT 208)     
-* Advanced Data Computing (CMSC/STAT 405)     
-* Bayesian Statistics (STAT 450)     
-* Advanced Statistical Modeling (STAT 455)    
+<b>2020-21:</b> offered winter term 
 
-#### Elective Courses  (choose two)
-* ANTH 207: Quantitative Analysis in Anthropology
-* BIOL 170: Integrative Biology: Experimental Design and Statistics
-* BIOL 360: Introduction to Bioinformatics
-* BIOL 375: Biostatistics
-* BIOL 380: Ecological Modeling
-* CHEM 210 / CHEM 211 Analytical Chemistry and Statistical Methods in Analytical Chemistry
-* CMSC 210: Introduction to Scientific Programming
-* CMSC 470: Artificial Intelligence
-* ECON 223: Quantitative Decision Making
-* ECON 380: Econometrics
-* ECON 481: Advanced Econometrics & Modeling
-* ENST 235 / GEOS 214: Climate and Climate Change
-* ETST 302: Research Methods in Ethnic Studies
-* GOVT 271: Research Methods in Political Science
-* GOVT 538: Outside the Margin of Error: Polling and Quantitative Prediction in Modern Politics 
-* MATH 340: Probability 
-* PSYCH 280: Research Methods I
-* PSYCH 281: Research Methods II
-* STAT 445: Mathematical Statistics
-* STAT 450: Bayesian Statistics
 
-<u> Additional Stipulations </u>   
-1. No more than one of ANTH 207 and BIOL 170 may count toward the minor.      
-2. The minor requires a total of six distinct courses. Thus, courses (such as STAT 450) that are listed on both lists of electives may count toward one, but not both requirements.    
-   
+#### CMSC/STAT 208: Machine Learning
+
+An overview of techniques used to discover structural patterns and make predictions using complex datasets that are prevalent in today's world. The central machine learning tasks of classification, clustering, and regression will be explored, along with methods for training models and evaluating predictions. This course will be taught in a workshop format. Assignments will involve the use of statistical software.     
+
+<b>Prerequisite: </b> CMSC 150, or CMSC 205, or CMSC 210, or instructor consent.     
+
+<b>2020-21:</b> offered spring term 
+
+#### STAT 255 : Statistics for Data Science
+
+This course introduces modern statistical techniques in the context of predictive inference and modeling. Topics will include data analysis techniques such as linear and logistic regression, ANOVA, nonparametric methods, and computational approaches such as cross-validation and bootstrapping. Statistical software will be used frequently. This class will involve regular in-class and out-of-class assignments as well as exams and quizzes.     
+
+<b>Prerequisite: </b> MATH 140 or STAT 107 or BIOL 170 or instructor consent      
+
+<b>2020-21:</b> offered fall and spring term 
+
+#### MATH/STAT 340: Probability
+
+An introduction to probability and its applications. Topics will include combinatorial and axiomatic probability, conditional probability and Bayes' Theorem, random variables, expectation and variance, discrete and continuous probability distributions, joint and conditional distributions, and limit laws.    
+
+<b>Prerequisite: </b> MATH 230     
+
+<b>2020-21:</b> offered winter term
+
+#### CMSC / STAT 405: Advanced Data Computing
+
+This course builds on the CMSC/STAT 205, providing a deeper exploration of statistical computing in R. Topics might include efficient programming techniques, parallelization, statistical algorithms, advanced data visualization, and creation of R packages. Statistical software will be used extensively in this course. The class will be taught in an interactive lab-based format. There will be regular assignments and a project.     
+
+<b>Prerequisite: </b> CMSC/STAT 205     
+
+<b>2020-21:</b> not offered     
+
+
+#### STAT 445: Mathematical Statistics
+
+Development of the mathematical theory of statistics and its application to the real world. The course will focus on the principles of estimation and testing from both the frequentist and Bayesian perspectives. Resampling methods (permutation tests and bootstrap intervals) will also be explored.    
+
+<b>Prerequisite: </b> MATH/STAT 340     
+
+<b>2020-21:</b> offered spring term
+
+#### STAT 450 Bayesian Statistics
+
+A study of the Bayesian statistical philosophy, contrasting it with the traditional frequentist approach taught in other statistics courses. Topics include Bayes' Theorem, prior and posterior probability distributions, hierarchical models, and Markov Chain Monte Carlo methods. The course will involve a mixture of lecture, discussion, and use of statistical software. Requirements include exams, a project, and assignments involving the use of statistical software.    
+
+<b>Prerequisite: </b> MATH/STAT 340     
+
+<b>2020-21:</b> not offered
+
+#### STAT 455 Advanced Statistical Modeling
+
+This course expands on STAT 255, and introduces more sophisticated models, meant to capture complicated correlation structure in data. Topics might include generalized linear models, mixed-effects models, hierarchical models, spatial models, and time series. The course will involve the use of statistical software. There will be regular assignments, exams, and possibly projects.    
+
+<b>Prerequisite: </b> STAT 255 or instructor consent     
+
+<b>2020-21:</b> offered winter term
 
