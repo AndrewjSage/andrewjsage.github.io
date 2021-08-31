@@ -3,9 +3,11 @@ layout: page
 title: Research
 ---
 
-I am interested in developing and applying methods for finding relationships in complex datasets. My dissertation was in the area of statistical machine learning, with focus on <a href="https://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm"> random forest methodology</a>. I enjoy applying statistical methods to sports analytics, as well as student success and retention, among other interests. 
+I am interested in developing and applying methods for finding relationships in complex datasets. My dissertation was in the area of statistical machine learning, with focus on <a href="https://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm"> random forest methodology</a>. My research also includes scholarship on ways to incorporate modern predictive methods into undergraduate statistics courses. 
 
 I especially enjoy working collaboratively with researchers in other disciplines. As John Tukey said, "The best thing about being a statistician is that you get to play in everyone's backyard." My recent collaborations include studies of sexual racism, and the infuence of depressive rumination on activity at facial muscle sites associated with positive and negative emotions. 
+
+I also enjoy applying statistical methods to a range of other applications including sports analytics, and student success and retention. 
 
 # Publications
 
