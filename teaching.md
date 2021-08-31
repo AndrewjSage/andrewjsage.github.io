@@ -5,7 +5,7 @@ title: Learning and Teaching
 
 ## Beliefs about Learning and Teaching
 
-If you are a student, I hope that you will come to see statistics as an investigative process, focused on using data to make and defend decisions. Learning how to reason with data is far more important (and more exciting!) than memorizing and/or plugging into formulas. It is important for us to work together to create an environment where you feel comfortable enough to take the risks that lead to learning.
+If you are a student, I hope that you will come to see statistics as an investigative process, focused on using data to make informed decisions. Learning how to reason with data is far more important (and more exciting!) than memorizing and/or plugging into formulas. It is important for us to work together to create an environment where you feel comfortable enough to take the risks that lead to learning.
 
 My teaching philosophy is shaped by the following core beliefs about learning: 
 
@@ -29,36 +29,5 @@ The following references were especially influential in formulating these though
 * Sibley, J., & Ostafichuk, P. (2015). *Getting started with team-based learning.* Stylus Publishing, LLC. 
 
 
-## Courses Taught
-
-**Lawrence University**
-
-* CMSC 205: Data-Scientific Programming (Winter 2020)
-
-* MATH 107: Elementary Statistics  (Fall 2018, Winter 2019, Spring 2019, Fall 2018)
-
-* FRST 100: Freshman Studies (Fall 2019)
-
-* MATH 240: Probability (Fall 2018)  
-
-* MATH 430: Statistical Modeling (Winter 2019)  
-
-
-My prior collegiate teaching experience includes:
-
-**Iowa State University:**
-
-* STAT 231: Probability and Statistical Inference for Engineers (Spring & Fall 2017, Spring 2018) 
-
-* STAT 330: Probability and Statistics for Computer Science (Fall 2016)
-
-* STAT 104: Introduction to Statistics (Fall 2014) 
-
-**Miami University**
-
-* MATH 151: Calculus I (Spring 2013)
-
-* MATH 123: Precalculus (Fall 2012, Spring 2013, Fall 2013)
-
-
+See my <a href="Curriculum Vitae.pdf"> CV </a> for a full list of courses I have taught at Lawrence and elsewhere. 
 
