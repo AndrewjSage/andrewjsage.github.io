@@ -11,7 +11,7 @@ For students in all disciplines. Provides the background needed to evaluate stat
 
 
 
-<b>2020-21:</b> offered all three terms
+<b>2021-22:</b> offered fall and winter term
 
 
 #### CMSC/STAT 205: Data-Scientific Programming
@@ -20,7 +20,7 @@ An introduction to programming with emphasis on learning from data in order to g
 
 <b>Prerequisite: </b> One prior course in mathematics, computer science or statistics, or instructor consent.     
 
-<b>2020-21:</b> offered winter term 
+<b>2020-21:</b> offered fall and winter term 
 
 
 #### CMSC/STAT 208: Machine Learning
@@ -37,7 +37,7 @@ This course introduces modern statistical techniques in the context of predictiv
 
 <b>Prerequisite: </b> MATH 140 or STAT 107 or BIOL 170 or instructor consent      
 
-<b>2020-21:</b> offered fall and spring term 
+<b>2020-21:</b> offered fall term 
 
 #### MATH/STAT 340: Probability
 
@@ -45,7 +45,7 @@ An introduction to probability and its applications. Topics will include combina
 
 <b>Prerequisite: </b> MATH 230     
 
-<b>2020-21:</b> offered winter term
+<b>2020-21:</b> offered fall term
 
 #### CMSC / STAT 405: Advanced Data Computing
 
@@ -62,7 +62,7 @@ Development of the mathematical theory of statistics and its application to the 
 
 <b>Prerequisite: </b> MATH/STAT 340     
 
-<b>2020-21:</b> offered spring term
+<b>2020-21:</b> not offered
 
 #### STAT 450 Bayesian Statistics
 
@@ -70,7 +70,7 @@ A study of the Bayesian statistical philosophy, contrasting it with the traditio
 
 <b>Prerequisite: </b> MATH/STAT 340     
 
-<b>2020-21:</b> not offered
+<b>2020-21:</b> offered spring term
 
 #### STAT 455 Advanced Statistical Modeling
 
