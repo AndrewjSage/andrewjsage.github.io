@@ -1,24 +1,22 @@
 ---
 layout: page
-title: Learning and Teaching
+title: Teaching
 ---
 
-## Beliefs about Learning and Teaching
+A conversation that leads another person to share my enthusiasm statistical investigation carries great intrinsic reward. As a teacher, I get to engage in these conversations every day. I enjoy working closely with students to help them develop the skills and judgement needed to make responsible data-driven decisions and critique faulty arguments they are sure to encounter in their everyday lives. I employ a variety of inclusive pedagogical strategies designed to create a learning-centered environment rooted in high expectations and transparency. I want my students to know that I value them as individuals and care about supporting their success. Most of all, I want them to feel empowered in the knowledge that they are capable of doing hard things.
 
-If you are a student, I hope that you will come to see statistics as an investigative process, focused on using data to make informed decisions. Learning how to reason with data is far more important (and more exciting!) than memorizing and/or plugging into formulas. It is important for us to work together to create an environment where you feel comfortable enough to take the risks that lead to learning.
+I teach a variety of statistics and data classes including:   
 
-My teaching philosophy is shaped by the following core beliefs about learning: 
+* STAT 107: *Principles of Statistics*
+* CMSC/STAT 205: *Data-Scientific Programming*
+* STAT 255: *Statistics for Data Science*  
+* MATH/STAT 340: *Probability*
+* STAT 455: *Advanced Statistical Modeling*  
 
-1) **We learn best when working with topics we are excited about.**
-Cognitive learning theory underscores the importance of emotion in our learning. In statistics courses, you will have opportunities to choose datasets to work with. I hope that you will see statistics as a vehicle for exploring topics and issues that you care about. 
+Here are class notes for <a href="https://stat255-lu.github.io/Notes/"> STAT 255 </a> and <a href="https://stat455-w22.github.io/stat455-w22-notes/"> STAT 455 </a> in Bookdown format. 
 
-2) **Learning is a social process.**
-As teachers can attest, we know that we understand something when we are able to explain it to others. We all share the responsibility of helping each other learn from our own experiences and strengths. For me, one of the best parts of teaching is having the opportunity to learn from my students. 
 
-3) **Learning results from engaging the brain in thought, and then reflecting on that thinking.**
-Learning truly sets in when we pause to think about how new experiences have changed the way we understand the world around us. After class activities, you will frequently have opportunities to reflect on the ways that your thinking has changed, and to ask questions that might surface as a result of that thinking. 
-
-The following references were especially influential in formulating these thoughts on learning and teaching:
+I enjoy reading articles and books about teaching and learning, and thinking about how I can apply new ideas to improve my students' experiences. I have found the following resources especially enlightening.   
 
 * Carver, R., Everson, M., Gabrosek, J., Horton, N., Lock, R., Mocko, M., ... & Wood, B. (2016). *Guidelines for assessment and instruction in statistics education (GAISE) college report 2016.* Alexandria, VA: American Statistical Association.[Online: www. amstat.org/education/gaise]. 
 * Cavanagh, S. R. (2016). *The Spark of Learning: Energizing the College Classroom with the Science of Emotion.* West Virginia University Press. 
@@ -27,7 +25,3 @@ The following references were especially influential in formulating these though
 * Leamnson, R. (2000). *Learning as biological brain change.* Change: The magazine of higher learning, 32(6), 34-40. 
 * Michaelsen, L. K., Knight, A. B., & Fink, L. D. (Eds.). (2002). *Team-based learning: A transformative use of small groups.* Greenwood publishing group. 
 * Sibley, J., & Ostafichuk, P. (2015). *Getting started with team-based learning.* Stylus Publishing, LLC. 
-
-
-See my <a href="Curriculum Vitae.pdf"> CV </a> for a full list of courses I have taught at Lawrence and elsewhere. 
-
