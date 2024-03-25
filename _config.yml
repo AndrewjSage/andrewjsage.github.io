@@ -23,16 +23,9 @@ description: Website of Andrew J. Sage
 
 # List of links in the navigation bar
 navbar-links:
-  Statistics at Lawrence:   
-   - Mathematics Major - Statistics Track: "stat_track"  
-   - Statistics and Data Science Minor: "SDS_minor" 
-   - Statistics Courses: "stat_courses" 
-  Learning and Teaching: 
-#    - My Teaching: "teaching"
-#    - Activities & Projects: "projects"
+  Teaching: "teaching"
   Research: "research"
   CV: "Curriculum Vitae.pdf"
-  Hobbies: "hobbies"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -48,7 +41,7 @@ navbar-links:
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Andrew J. Sage
-  email: "ajsage@iastate.edu"
+  email: "sagea@lawrence.edu"
   github: andrewjsage    # eg. daattali
   linkedin: andrewjsage  # eg. daattali
 
