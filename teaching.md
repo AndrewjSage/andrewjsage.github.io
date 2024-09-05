@@ -21,6 +21,7 @@ I enjoy reading articles and books about teaching and learning, and thinking abo
 * Carver, R., Everson, M., Gabrosek, J., Horton, N., Lock, R., Mocko, M., ... & Wood, B. (2016). *Guidelines for assessment and instruction in statistics education (GAISE) college report 2016.* Alexandria, VA: American Statistical Association.[Online: www. amstat.org/education/gaise]. 
 * Cavanagh, S. R. (2016). *The Spark of Learning: Energizing the College Classroom with the Science of Emotion.* West Virginia University Press. 
 * Cobb, G. W.  (1992), "Teaching Statistics" in *Heeding the Call for Change*, ed. Lynn Steen, MAA Notes No. 22, Washington: Mathematical Association of America.  
+* Curley, B., Downey, J., Kinnaird, K. M., Loy, A., & Reyes, E. (2023). *Questions (and Answers) for Incorporating Nontraditional Grading in Your Statistics Courses.* Journal of Statistics and Data Science Education, 1-13.
 * Johnson, D. W., Johnson, R. T., & Smith, K. A. (1998). *Active learning: Cooperation in the college classroom.* Interaction Book Company, 7208 Cornelia Drive, Edina, MN 55435. 
 * Leamnson, R. (2000). *Learning as biological brain change.* Change: The magazine of higher learning, 32(6), 34-40. 
 * Michaelsen, L. K., Knight, A. B., & Fink, L. D. (Eds.). (2002). *Team-based learning: A transformative use of small groups.* Greenwood publishing group. 
