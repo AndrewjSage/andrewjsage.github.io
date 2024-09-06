@@ -11,6 +11,6 @@ I am an associate professor of statistics at Lawrence University in Appleton, Wi
 
 I earned my Ph.D. in statistics at Iowa State University in 2018. Prior to that, I earned a B.A.  from the College of Wooster in 2007, and M.S. in mathematics from Miami University in 2013. 
 
-Outside of work, I enjoy traveling, growing apples and berries in the yard, running/jogging, watching sports (especially baseball), and playing fetch with my dog, Lily. 
+In addition to statistics, I enjoy traveling, growing apples and berries in the yard, running/jogging, watching sports (especially baseball), and playing fetch with my dog, Lily. 
    
 ------
