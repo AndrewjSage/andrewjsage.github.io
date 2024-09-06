@@ -19,13 +19,13 @@ Assistant Professor of Statistics							2018-2024
 	
 EDUCATION
 ==========================
-Iowa State University, Ames, IA
+Iowa State University, Ames, IA       
 Degree: Ph.D. in Statistics						 			  2018
 Dissertation Title: Random forest robustness, variable importance 
 and tree aggregation
 Advisors: Ulrike Genschel, Dan Nettleton
 
-Iowa State University, Ames, IA
+Iowa State University, Ames, IA        
 Degree: M.S. in Statistics 									  2015
 Master’s Project: Predicting student retention in STEM: 
 A random forest based approach
@@ -37,7 +37,7 @@ Master’s Project: Calculation of cell bounds for
 contingency tables from rounded conditional frequencies
 Advisor: Stephen Wright
 
-The College of Wooster, Wooster, OH		
+The College of Wooster, Wooster, OH		       
 Degree: B.A. in Mathematics 								  2007
 Summa Cum Laude
 
