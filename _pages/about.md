@@ -12,4 +12,3 @@ Welcome! I am an associate professor of statistics at Lawrence University in App
    
 
 ------
-This webpage was developed using [academicpages template](https://academicpages.github.io/markdown/). 
