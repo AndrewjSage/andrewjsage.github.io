@@ -1,6 +1,11 @@
 ---
-title: Research
+layout: archive
+title: "Research"
+permalink: /research/
+author_profile: true
 ---
+
+{% include base_path %}
 
 My research interests include statistical learning, statistics education, applied statistical consulting, and sports analytics. 
 

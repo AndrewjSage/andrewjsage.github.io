@@ -1,6 +1,11 @@
 ---
+layout: archive
 title: "Teaching"
+permalink: /teaching/
+author_profile: true
 ---
+
+{% include base_path %}
 
 A conversation that leads another person to share my enthusiasm statistical investigation carries great intrinsic reward. As a teacher, I get to engage in these conversations every day. I enjoy working closely with students to help them develop the skills and judgement needed to make responsible data-driven decisions and critique faulty arguments they are sure to encounter in their everyday lives. I employ a variety of inclusive pedagogical strategies designed to create a learning-centered environment rooted in high expectations and transparency. I want my students to know that I value them as individuals and care about supporting their success. Most of all, I want them to feel empowered in the knowledge that they are capable of doing hard things.
 
