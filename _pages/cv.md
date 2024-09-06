@@ -88,7 +88,7 @@ Sage, A.J., Genschel, U., Nettleton, D. (2020). Tree aggregation for random fore
 
 Sage, A. J., & Wright, S. E. (2016). Obtaining cell counts for contingency tables from rounded conditional frequencies. European Journal of Operational Research, 250(1), 91-100.
 
-+ denotes undergraduate student author advised by A.J. Sage
++denotes undergraduate student author advised by A.J. Sage
 
 UNDERGRADUATE RESEARCH MENTORED
 ==============================
