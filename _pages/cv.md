@@ -11,11 +11,9 @@ redirect_from:
 
 COLLEGE FACULTY POSITIONS
 ==========================
-Lawrence University, Appleton, WI
-
-Associate Professor of Statistics							2024-present     
-
-Assistant Professor of Statistics							2018-2024	
+**Lawrence University, Appleton, WI**     
+Associate Professor of Statistics:							2024-present     
+Assistant Professor of Statistics:							2018-2024	
 	
 EDUCATION
 ==========================
