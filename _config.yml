@@ -22,7 +22,7 @@ repository               : "andrewjsage.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Andrew J. Sage"
   pronouns         : # example: "she/her"  
   bio              : "Associate Professor of Statistics"
   location         : "Appleton, WI"
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # "https://www.linkedin.com/in/andrewjsage/"
+  linkedin         :  "andrewjsage"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
