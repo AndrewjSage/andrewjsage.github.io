@@ -18,7 +18,7 @@ I teach a variety of statistics and data classes including:
 * STAT 450: *Bayesian Statistics*
 * STAT 455: *Advanced Statistical Modeling*  
 
-I enjoy reading articles and books about teaching and learning, and thinking about how I can apply new ideas to improve my students' experiences. I have found the following resources especially enlightening.   
+I have found the following references especially insightful in my teaching.     
 
 * Carver, R., Everson, M., Gabrosek, J., Horton, N., Lock, R., Mocko, M., ... & Wood, B. (2016). *Guidelines for assessment and instruction in statistics education (GAISE) college report 2016.* Alexandria, VA: American Statistical Association.[Online: www. amstat.org/education/gaise]. 
 * Cavanagh, S. R. (2016). *The Spark of Learning: Energizing the College Classroom with the Science of Emotion.* West Virginia University Press. 
