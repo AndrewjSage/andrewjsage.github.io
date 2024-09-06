@@ -15,6 +15,7 @@ I teach a variety of statistics and data classes including:
 
 Here are class notes for [STAT 255](https://stat255-lu.github.io/Notes/) and [STAT 455](https://stat455-w22.github.io/stat455-w22-notes/). 
 
+
 I enjoy reading articles and books about teaching and learning, and thinking about how I can apply new ideas to improve my students' experiences. I have found the following resources especially enlightening.   
 
 * Carver, R., Everson, M., Gabrosek, J., Horton, N., Lock, R., Mocko, M., ... & Wood, B. (2016). *Guidelines for assessment and instruction in statistics education (GAISE) college report 2016.* Alexandria, VA: American Statistical Association.[Online: www. amstat.org/education/gaise]. 
