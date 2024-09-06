@@ -41,9 +41,9 @@ The College of Wooster, Wooster, OH
 Degree: B.A. in Mathematics 								  2007      
 Summa Cum Laude
 
-TEACHING EXPERIENCE						Times Taught (Span)
+TEACHING EXPERIENCE					
 ==========================
-Lawrence University, Appleton, WI					
+Lawrence University, Appleton, WI						Times Taught (Span)
 Assistant/Associate Professor of Statistics							
 * STAT 107: Principles of Statistics 	       				9 (2018-24)
 * STAT 255: Statistics for Data Science				 	8 (2020-23)
@@ -109,10 +109,10 @@ Lawrence University Summer Research Fellows
 SERVICE
 =======
 * Lawrence University Committees
-* Governance Committee (2024-25 & 2025-26)
-* Curriculum Committee (2022-23 & 2023-24)
-* First-Year Studies Committee, (2020-21 & 2021-22)
-* Internal Review Board, (2019-20)
+     - Governance Committee (2024-25 & 2025-26)
+     - Curriculum Committee (2022-23 & 2023-24)
+     - First-Year Studies Committee, (2020-21 & 2021-22)
+     - Internal Review Board, (2019-20)
 * Phi Beta Kappa Lawrence University Delta-Gamma Chapter
      - President (2022-23 & 2023-24)
      - Vice President (2020-21 & 2021-22)
