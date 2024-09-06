@@ -22,19 +22,19 @@ EDUCATION
 Iowa State University, Ames, IA       
 Degree: Ph.D. in Statistics						 			  2018      
 Dissertation Title: Random forest robustness, variable importance 
-and tree aggregation
+and tree aggregation        
 Advisors: Ulrike Genschel, Dan Nettleton
 
 Iowa State University, Ames, IA        
 Degree: M.S. in Statistics 									  2015       
 Master’s Project: Predicting student retention in STEM: 
-A random forest based approach
+A random forest based approach      
 Advisor: Dan Nettleton
 
 Miami University, Oxford, OH			        
 Degree: M.S. in Mathematics 						  		  2013      
 Master’s Project: Calculation of cell bounds for 
-contingency tables from rounded conditional frequencies
+contingency tables from rounded conditional frequencies     
 Advisor: Stephen Wright
 
 The College of Wooster, Wooster, OH		       
