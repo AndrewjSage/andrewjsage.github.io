@@ -13,7 +13,7 @@ Statistical learning involves creating and evaluating predictive algorithms, des
 
 I also enjoy working collaboratively with social science colleagues to analyze data collected in their studies. I am currently working with a psychology colleague on a study examining the effect of mindfulness and mood-monitoring strategies on mental health of colleague students. 
 
-Finally, I enjoy applying statistical methods to sports data and have supervised several student projects in this area. One of these projects, by Derek Brickley, examined relationships between colleges' and universities' academic and athletic performances and <a href="https://www.siam.org/Portals/0/Publications/SIURO/Vol15/S149121.pdf?ver=2022-11-23-135316-360">" was published in SIAM Undergraduate Research Online in 2022</a>.
+Finally, I enjoy applying statistical methods to sports data and have supervised several student projects in this area. One of these projects, by Derek Brickley, examined relationships between colleges' and universities' academic and athletic performances and <a href="https://www.siam.org/Portals/0/Publications/SIURO/Vol15/S149121.pdf?ver=2022-11-23-135316-360"> was published in SIAM Undergraduate Research Online in 2022</a>.
 
 
 # Publications
