@@ -1,0 +1,136 @@
+Id,Age,Education,Income,Location,Books
+1,88,< HS,36,Rural,8
+2,69,< HS,24,Suburban,2
+3,50,< HS,27,Urban,3
+4,55,< HS,35,Rural,6
+5,65,< HS,31,Suburban,5
+6,81,< HS,15,Urban,0
+7,65,< HS,33,Rural,2
+8,51,< HS,16,Suburban,0
+9,35,< HS,47,Urban,5
+10,28,< HS,23,Rural,0
+11,87,< HS,10,Suburban,0
+12,68,< HS,19,Urban,2
+13,35,< HS,23,Rural,0
+14,50,< HS,28,Suburban,2
+15,20,< HS,31,Urban,3
+16,72,< HS,22,Rural,0
+17,50,< HS,44,Suburban,0
+18,25,HS,45,Urban,24
+19,31,HS,60,Rural,0
+20,39,HS,75,Suburban,0
+21,75,HS,49,Urban,12
+22,90,HS,37,Rural,12
+23,18,HS,43,Suburban,10
+24,19,HS,46,Urban,7
+25,41,HS,39,Rural,0
+26,54,HS,35,Suburban,10
+27,64,HS,34,Urban,10
+28,55,HS,30,Rural,7
+29,76,HS,68,Suburban,10
+30,25,HS,33,Urban,7
+31,65,HS,53,Rural,8
+32,80,HS,35,Suburban,10
+33,83,HS,30,Urban,13
+34,84,HS,42,Rural,12
+35,19,HS,47,Suburban,0
+36,59,HS,56,Urban,10
+37,19,HS,54,Rural,12
+38,66,HS,21,Suburban,13
+39,65,HS,80,Urban,23
+40,50,HS,43,Rural,6
+41,86,HS,37,Suburban,11
+42,56,HS,28,Urban,7
+43,32,HS,41,Rural,12
+44,86,HS,56,Suburban,0
+45,83,HS,38,Urban,13
+46,63,HS,33,Rural,12
+47,60,HS,51,Suburban,18
+48,22,HS,36,Urban,9
+49,70,HS,52,Rural,13
+50,20,HS,27,Suburban,9
+51,84,HS,50,Urban,13
+52,68,HS,43,Rural,11
+53,74,HS,40,Suburban,12
+54,37,HS,37,Urban,10
+55,39,HS,69,Rural,13
+56,26,HS,49,Suburban,6
+57,85,HS,48,Urban,18
+58,44,HS,79,Rural,11
+59,31,HS,51,Suburban,3
+60,91,HS,23,Urban,14
+61,24,HS,51,Rural,0
+62,72,HS,70,Suburban,11
+63,34,Some College,51,Urban,16
+64,18,Some College,67,Rural,13
+65,46,Some College,81,Suburban,18
+66,91,Some College,61,Urban,26
+67,67,Some College,50,Rural,11
+68,46,Some College,28,Suburban,10
+69,85,Some College,66,Urban,10
+70,22,Some College,64,Rural,0
+71,91,Some College,58,Suburban,7
+72,73,Some College,53,Urban,12
+73,74,Some College,67,Rural,0
+74,61,Some College,45,Suburban,9
+75,57,Some College,78,Urban,0
+76,57,Some College,74,Rural,13
+77,27,Some College,62,Suburban,11
+78,19,Some College,80,Urban,12
+79,54,Some College,70,Rural,16
+80,39,Some College,109,Suburban,17
+81,36,Some College,83,Urban,16
+82,47,Some College,70,Rural,9
+83,63,Some College,79,Suburban,7
+84,73,Some College,73,Urban,0
+85,65,Some College,67,Rural,16
+86,88,Some College,71,Suburban,17
+87,43,Some College,65,Urban,11
+88,77,Some College,57,Rural,14
+89,39,Some College,58,Suburban,14
+90,81,Some College,61,Urban,11
+91,21,Some College,49,Rural,15
+92,48,Some College,37,Suburban,24
+93,26,Some College,49,Urban,14
+94,57,Some College,41,Rural,8
+95,85,Some College,74,Suburban,18
+96,81,Some College,81,Urban,22
+97,24,Some College,36,Rural,0
+98,19,Some College,68,Suburban,13
+99,49,Some College,33,Urban,0
+100,22,Some College,56,Rural,18
+101,39,Some College,56,Suburban,12
+102,84,Some College,67,Urban,0
+103,75,Some College,67,Rural,18
+104,86,Some College,76,Suburban,7
+105,32,Some College,62,Urban,16
+106,60,College Degree,77,Rural,0
+107,27,College Degree,74,Suburban,0
+108,75,College Degree,96,Urban,23
+109,73,College Degree,87,Rural,18
+110,83,College Degree,78,Suburban,19
+111,81,College Degree,89,Urban,20
+112,87,College Degree,56,Rural,24
+113,41,College Degree,74,Suburban,10
+114,69,College Degree,68,Urban,22
+115,19,College Degree,69,Rural,20
+116,60,College Degree,91,Suburban,15
+117,32,College Degree,75,Urban,22
+118,90,College Degree,64,Rural,18
+119,33,College Degree,79,Suburban,20
+120,31,College Degree,41,Urban,16
+121,34,College Degree,69,Rural,0
+122,28,College Degree,55,Suburban,0
+123,46,College Degree,61,Urban,21
+124,91,College Degree,68,Rural,26
+125,47,College Degree,90,Suburban,0
+126,32,College Degree,66,Urban,19
+127,77,College Degree,68,Rural,20
+128,85,College Degree,35,Suburban,24
+129,57,College Degree,75,Urban,22
+130,77,College Degree,51,Rural,12
+131,71,College Degree,50,Suburban,15
+132,82,College Degree,48,Urban,15
+133,85,College Degree,45,Rural,20
+134,54,College Degree,98,Suburban,14
+135,58,College Degree,80,Urban,26
