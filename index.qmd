@@ -16,7 +16,7 @@ about:
 comments: false
 ---
 
-::: column-page
+
 ## Bio
 
 I am an associate professor of statistics at Lawrence University in Appleton, Wisconsin. I enjoy working collaboratively to find meaning in complex data. I develop and teach statistics and data science courses at all levels of the curriculum, and enjoy engaging in research with students and colleagues. My research interests include statistical machine learning, applied statistics, sports analytics, and statistics education.
