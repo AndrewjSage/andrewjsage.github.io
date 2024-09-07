@@ -23,7 +23,7 @@ repository               : "andrewjsage.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpeg"
+  avatar           : "profile.HEIC"
   name             : "Andrew J. Sage"
   pronouns         : # example: "he/him"  
   bio              : "Associate Professor of Statistics"
