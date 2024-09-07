@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+{% if page.profile %}
+    {% if page.profile.image %}
+      <img class="profile {{ page.profile.align }}"  width ="25%" src="{{ page.profile.image | prepend: '/assets/images/' | prepend: site.baseurl | prepend: site.url }}">
+    {% endif %}
+{% endif %}
+
+{% if page.research %}
+    {% if page.research.image %}
+      <img class="research {{ page.research.align }}"  width ="42%"  height="27%" src="{{ page.research.image | prepend: '/assets/images/' | prepend: site.baseurl | prepend: site.url}}">
+    {% endif %}
+{% endif %}
+
+{{ content }}

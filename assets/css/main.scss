@@ -1,48 +1,30 @@
 ---
+# Only the main Sass file needs front matter (the dashes are enough)
 ---
-
-/*
- *    Minimal Mistakes Jekyll Theme
- *
- *  - Michael Rose
- *  - mademistakes.com
- *  - https://twitter.com/mmistakes
- *
-*/
-
-@import "vendor/breakpoint/breakpoint"; // media query mixins
-@import "variables";
-@import "mixins";
-@import "vendor/susy/susy";
-
-@import "reset";
-@import "base";
-
-@import "utilities";
-@import "animations";
-@import "tables";
-@import "buttons";
-@import "notices";
-@import "masthead";
-@import "navigation";
-@import "footer";
-@import "syntax";
-
-@import "forms";
-
-@import "page";
-@import "archive";
-@import "sidebar";
-
-@import "vendor/font-awesome/fontawesome";
-@import "vendor/font-awesome/solid";
-@import "vendor/font-awesome/brands";
-@import "vendor/magnific-popup/magnific-popup";
-@import "print";
 
 @charset "utf-8";
 
-@import "minimal-mistakes";
+// Width of the content area
+$content-width:    800px;
+$on-phone:         450px;
+$on-palm:          660px;
+$on-laptop:        1000px;
 
-// your styles here
- .greedy-nav a { color: red; }.
+@mixin media-query($device) {
+    @media screen and (max-width: $device) {
+        @content;
+    }
+}
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+// Do not make any changes to this file. Go to /_sass and find the appropriate SCSS file and make changes there.
+@import
+        "variables",
+        "footer-social",
+        "projects",
+        "profile",
+        "footer",
+        "style",
+        "google-fonts"
+        // "navigator"
+;

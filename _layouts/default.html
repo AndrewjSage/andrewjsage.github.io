@@ -1,31 +1,52 @@
 ---
-layout: compress
+# layout: compress
 ---
+<!DOCTYPE html>
+<html>
 
-{% include base_path %}
+    <head>
+        <meta charset="utf-8">
+        <meta content="width=device-width, initial-scale=1" name="viewport">
+        <meta name="google-site-verification" content="4u4Y1sSh6v3NCSOimIe3h1wSW3os9duYVUEquys8epE"/>
+        <link rel="stylesheet" href="{{site.baseurl}}/assets/css/main.css">
+        <link rel="stylesheet" href="{{site.baseurl}}/assets/css/academicons.min.css"/>
+         
+        <h1 class="post-headline">{{site.title}}</h1>
+        <h3 class="post-description">{{site.description}}</h3>
 
-<!doctype html>
-<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
-  <head>
-    {% include head.html %}
-    {% include head/custom.html %}
-  </head>
+        {% include navigation.html %}
 
-  <body>
+        {% seo %}
 
-    {% include browser-upgrade.html %}
-    {% include masthead.html %}
+        {% include favicon.html %}
 
-    {{ content }}
+        <!-- Load fontawesome here for faster loadtimes: https://stackoverflow.com/a/35880730/9523246 -->
+        <script type="text/javascript"> (function() { var css = document.createElement('link'); css.href = 'https://use.fontawesome.com/releases/v5.11.0/css/all.css'; css.rel = 'stylesheet'; css.type = 'text/css'; document.getElementsByTagName('head')[0].appendChild(css); })(); </script>
+    </head>
 
-    <div class="page__footer">
-      <footer>
-        {% include footer/custom.html %}
-        {% include footer.html %}
-      </footer>
-    </div>
+    <body>
+        <main>
+            <article>
+                {{ content }}
+            </article>
+        </main>
 
-    {% include scripts.html %}
+        <footer>
+          <p class="copy">
+            <small> &copy; {{site.title}} {{ site.time | date: '%Y' }}
+                    | Powered by Jekyll and
+                    <a target="_blank" href="https://github.com/jitinnair1/gradfolio/">Gradfolio</a>.
+                    Last updated on {{ site.time | date_to_long_string }}
+            </small>
+          </p>
 
-  </body>
+        {% include social-footer.html %}
+
+        </footer>
+
+        {% include google-analytics.html %}
+
+        <!-- <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script> -->
+    </body>
+
 </html>
