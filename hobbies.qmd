@@ -1,7 +1,26 @@
 ---
-title: "Hobbies"
+title: "Things I Enjoy"
 format: html
 editor: visual
 ---
 
-### 
+## Pictures of Things I Enjoy
+
+Traveling the world:
+
+![Rome](images/Rome.jpg){width=350}
+![Paris](images/Paris.jpg){width=350}
+
+Baseball - Go Guardians!    
+
+![](images/Baseball.jpg){width=500}
+
+Growing Fruit:    
+
+![Apples](images/Apples.jpg){width=300}
+![Berries](images/Berries.jpg){width=300}
+
+
+Playing with my dog, Lily:
+
+![](images/Lily.jpg){width=500}
