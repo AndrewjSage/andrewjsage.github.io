@@ -1,51 +1,30 @@
 ---
-title:
-layout: about
+layout: archive
+title: "Research"
 permalink: /research/
-research:
-  align: right
-  image: research.jpg
-published: true
+author_profile: true
 ---
 
-<!--## Research
-My research interests fall in three macro-areas of computer science and engineering:
-- distributed systems
-- intelligent and autonomous systems
-- algorithms and optimization
 
-Focuses I have interested on are:
-- Wireless Sensor Networks
-- Edge Computing
-- [Edge Intelligence]({{site.baseurl}}/research/edge-ai)
-- Federated Learning
-- Autonomous Vehicles
-- Reinforcement Learning
-- Swarm Intelligence
-- Genetic Algorithms-->
+My research interests include statistical learning, statistics education, applied statistical consulting, and sports analytics. 
+
+Statistical learning involves creating and evaluating predictive algorithms, designed to “learn” from and adapt to information contained in complex, noisy data. My research focuses on <a href="https://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm"> random forest methodology </a>. My latest article <a href="https://www.tandfonline.com/doi/abs/10.1080/00031305.2022.2107568"> "From Black Box to Shining Spotlight" </a> introduces a set of web applications (<a href="https://predictive-visualizations.shinyapps.io/Prediction_Intervals_Simulation/">1</a>, <a href="https://predictive-visualizations.shinyapps.io/Prediction_Intervals_Real_Data/">2</a>) visualizing random forest prediction intervals and comparing them with intervals produced by linear regression models. I have also published articles introducing <a href="https://www.intlpress.com/site/pub/pages/journals/items/sii/content/vols/0014/0004/a003/"> a residual-based approach to robust random forest regression </a>, <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/sam.11446"> evaluating techniques for aggregating random forest predictions across trees </a>, and <a href="https://journals.sagepub.com/doi/abs/10.1177/1521025118780502"> using random forests to improve college student retention in STEM majors</a>.  
+
+I also enjoy working collaboratively with social science colleagues to analyze data collected in their studies. I am currently working with a psychology colleague on a study examining the effect of mindfulness and mood-monitoring strategies on mental health of colleague students. 
+
+Finally, I enjoy applying statistical methods to sports data and have supervised several student projects in this area. One of these projects, by Derek Brickley, examined relationships between colleges' and universities' academic and athletic performances and <a href="https://www.siam.org/Portals/0/Publications/SIURO/Vol15/S149121.pdf?ver=2022-11-23-135316-360"> was published in SIAM Undergraduate Research Online in 2022</a>.
 
 
-My current research interests focus on __Trustworthy AI__ and __Applied Cryptography__. I used to work on _Chaotic Cryptography_ (inactive since 2014) and _Compressed Sensing Secrecy_ (inactive since 2016). The word cloud on the right summarizes my current research focuses. 
+# Publications
 
-The complete list of my publications can be found [here]({{site.baseurl}}/research/fullList) or on [my Google Scholar profile](https://scholar.google.com/citations?user=JK21OM0AAAAJ). 
+Sage, A. J., Liu, Y., & Sato, J. (2022). From black box to shining spotlight: Using random forest prediction intervals to illuminate the impact of assumptions in linear regression. *The American Statistician*, 76(4), 414-429.
 
-### Trustworthy AI:
-Given the critical importance of trust and transparency in AI technologies, addressing security and privacy challenges associated with AI deployment becomes paramount. My research in this area focuses on the following several key aspects: 
-- Investigating the security and privacy issues of foundation models <span style="color:blue"> [[ACSAC'24]({{site.baseurl}}/research/trustworthyAI)] </span>  
-- Understanding and improving adversarial robustness <span style="color:blue"> [[Oakland'24a]({{site.baseurl}}/research/trustworthyAI)], [[Oakland'24c]({{site.baseurl}}/research/trustworthyAI)], [[ICCV'23]({{site.baseurl}}/research/trustworthyAI)], [[Asia CCS'23a]({{site.baseurl}}/research/trustworthyAI)], [[CVPR'22]({{site.baseurl}}/research/trustworthyAI)] </span>  
-- Designing and defeating poisoning attacks <span style="color:blue"> 
-[[ICML'24]({{site.baseurl}}/research/trustworthyAI)], [[IJCAI'24a]({{site.baseurl}}/research/trustworthyAI)], [[IJCAI'24b]({{site.baseurl}}/research/trustworthyAI)], [[AAAI'24a]({{site.baseurl}}/research/trsutworthyAI)], [[Oakland'24b]({{site.baseurl}}/research/trustworthyAI)], [[Acm MM'23]({{site.baseurl}}/research/trustworthyAI)], [[IJCAI'23]({{site.baseurl}}/research/trustworthyAI)], [[IJCAI'22]({{site.baseurl}}/research/trustworthyAI)] </span>  
-- Preventing privacy and IP leakage <span style="color:blue"> [[AAAI'24b]({{site.baseurl}}/research/trustworthyAI)], [[AAAI'24c]({{site.baseurl}}/research/trustworthyAI)], [[Asia CCS'23b]({{site.baseurl}}/research/trustworthyAI)] </span>  
-- Improving overall performance in the presence of adversaries <span style="color:blue"> [[TIFS'23]({{site.baseurl}}/research/trustworthyAI)] </span>  
+Smith, J. G., Sage, A. J., McGlenn, M., Robbins, J., & Garmon, S. L. (2022). Is Sexual Racism Still Really Racism? Revisiting Callander et al.(2015) in the USA. *Archives of Sexual Behavior*, 51(6), 3049-3062.
 
+Sage, A.J., Genschel, U., Nettleton, D. (2021). A Residual-Based Approach to Robust Random Forest Regression. *Statistics and its Interface*. 14(4) 389-402. 
 
-### Applied Cryptography:
-Cryptography serves as a fundamental building block for information security, and applied cryptography aims to bridge theory and practice by studying the best practical implementation and usage of cryptographic algorithms for real-world applications. My research in this area covers the following different aspects:
-- Differentially private algorithms and applications <span style="color:blue"> [[TIFS'22]({{site.baseurl}}/research/appCrypt)] </span>  
-- Privacy-preserving machine learning <span style="color:blue"> [[TDSC'19]({{site.baseurl}}/research/appCrypt)], [[ISCC'22]({{site.baseurl}}/research/appCrypt)]</span>  
-- Customized multi-party computation protocols for new applications <span style="color:blue"> [[Asia CCS'24]({{site.baseurl}}/research/appCrypt)], [[ACNS'23]({{site.baseurl}}/research/appCrypt)], [[TDSC'18]({{site.baseurl}}/research/appCrypt)]</span>  
-- Emerging authentication methods <span style="color:blue"> [[TVT'24]({{site.baseurl}}/research/appCrypt)], [[RAID'23]({{site.baseurl}}/research/appCrypt)]</span>  
+Sage, A.J., Genschel, U., Nettleton, D. (2020). Tree aggregation for random forest class probability estimation. *Statistical Analysis and Data Mining: The ASA Data Science Journal*. 
 
+Sage, A.J., Cervato, C., Genschel, U., Ogilvie, C., (2018). Combining academics and social engagement: a major-specific early alert method to counter student attrition in STEM. *Journal of College Student Retention: Research, Theory, and Practice*. 1521025118780502
 
-
-
+Sage, A. J., & Wright, S. E. (2016). Obtaining cell counts for contingency tables from rounded conditional frequencies. *European Journal of Operational Research*, 250(1), 91-100.
