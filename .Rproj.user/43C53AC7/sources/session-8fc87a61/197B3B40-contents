@@ -1,0 +1,27 @@
+---
+title: "Andrew J. Sage"
+image: images/profile.jpeg
+about:
+  template: trestles
+  links:
+    - text: LinkedIn
+      icon: linkedin
+      url: "https://www.linkedin.com/in/andrewjsage"
+    - text: GitHub
+      icon: github
+      url: "https://github.com/andrewjsage"
+    - text: Email
+      icon: envelope
+      url: "mailto:sagea@lawrence.edu"
+comments: false
+---
+
+
+## Bio
+
+I am an associate professor of statistics at Lawrence University in Appleton, Wisconsin. I enjoy working collaboratively to find meaning in complex data. I develop and teach statistics and data science courses at all levels of the curriculum, and enjoy engaging in research with students and colleagues. My research interests include statistical machine learning, applied statistics, sports analytics, and statistics education.
+
+I earned my Ph.D. in statistics at Iowa State University in 2018. Prior to that, I earned a B.A. from the College of Wooster in 2007, and M.S. in mathematics from Miami University in 2013.
+
+In addition to statistics, I enjoy traveling and sight-seeing with my wife, growing apples and berries in the yard, running/jogging, watching sports (especially baseball), and playing fetch with my dog, Lily.
+:::
