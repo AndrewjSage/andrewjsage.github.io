@@ -29,7 +29,7 @@ author:
   bio              : "Associate Professor of Statistics"
   location         : "Appleton, WI"
   employer         : "Lawrence University"
-  uri              : "andrewjsage.github.io"
+  uri              : #"andrewjsage.github.io"
   email            : "sagea@lawrence.edu" 
 
   # Academic websites
