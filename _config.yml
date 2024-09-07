@@ -1,10 +1,10 @@
 ### your site title here
-title: Leo Zhang
-description: Senior Lecturer, Griffith University
+title: Andrew J. Sage
+description: Associate Professor of Statistics, Lawrence University
 
 baseurl: "" #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
-email: leo.zhang@griffith.edu.au
+email: sagea@lawrence.edu
 
 highlighter: rouge
 markdown: kramdown
@@ -18,14 +18,14 @@ markdown: kramdown
 # Social media links in footer
 # facebook: "#"
 # twitter: "#"
-# github: "leozhangcs"
-linkedin: "leo-yu-zhang-9420997b"
-researchgate: "Leo-Zhang-9"
-# arxiv: "41503-leo-zhang"
-google_scholar: "JK21OM0AAAAJ"
-#orcid: "0000-0001-9330-2662"
-google_analytics: "G-WSGRP4LTCZ"
-#scopus: "57249742600"
+ github: "andrewjsage"
+linkedin: "andrewjsage"
+#researchgate: 
+# arxiv: 
+#google_scholar: 
+#orcid: 
+#google_analytics: 
+#scopus: 
 
 
 #flickr: ""
