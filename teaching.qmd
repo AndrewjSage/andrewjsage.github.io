@@ -10,7 +10,7 @@ I teach a variety of statistics and data classes including:
 
 -   STAT 107: *Principles of Statistics*
 -   CMSC/STAT 205: *Data-Scientific Programming*
--   STAT 255: *Statistics for Data Science* - [STAT 255 Class Notes](https://stat255-lu.github.io/Notes/)
+-   STAT 255: *Statistics for Data Science* - [STAT 255 Class Notes](https://stat255-lu.github.io/Stat255Notes/)
 -   MATH/STAT 340: *Probability*\
 -   STAT 450: *Bayesian Statistics*
 -   STAT 455: *Advanced Statistical Modeling*
