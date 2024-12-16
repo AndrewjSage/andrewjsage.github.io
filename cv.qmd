@@ -33,7 +33,8 @@ Summa Cum Laude
 
 # TEACHING EXPERIENCE
 
-Lawrence University, Appleton, WI Times Taught (Span) Assistant/Associate Professor of Statistics
+Lawrence University, Appleton, WI   \
+Assistant/Associate Professor of Statistics
 
 -   STAT 107: Principles of Statistics: 9 sections (2018-24)\
 -   STAT 255: Statistics for Data Science: 8 sections (2020-23)\
@@ -46,7 +47,6 @@ Lawrence University, Appleton, WI Times Taught (Span) Assistant/Associate Profes
 -   Advised 20 Chandler Senior Experiences and co-advised 6 others
 
 Iowa State University, Ames, IA\
-<<<<<<< HEAD
 Graduate teaching assistant, Department of Statistics Courses taught as instructor:
 
 -   STAT 231: Probability and Statistics for Engineering S17, F18, S18
@@ -57,25 +57,12 @@ Graduate teaching assistant, Department of Statistics Courses taught as instruct
 
 -   Lab instructor for STAT 421Survey Sampling Techniques S14
 
-    Miami University, Oxford, OH
-
-    Graduate teaching assistant, Department of Mathematics Courses taught as instructor:
+Miami University, Oxford, OH \
+Graduate teaching assistant, Department of Mathematics Courses taught as instructor:
 
 -   Math 151: Calculus I S13
 
 -   Math 123: Precalculus F11, S12, F12
-=======
-Graduate teaching assistant, Department of Statistics Courses taught as instructor:\
-\* STAT 231: Probability and Statistics for Engineering S17, F18, S18\
-\* STAT 330: Probability and Statistics for Computer Science F16\
-\* STAT 104: Introductory Statistics F14\
-\* Lab instructor for STAT 421Survey Sampling Techniques S14
-
-Miami University, Oxford, OH\
-Graduate teaching assistant, Department of Mathematics Courses taught as instructor:\
-\* Math 151: Calculus I S13\
-\* Math 123: Precalculus F11, S12, F12
->>>>>>> 86438f98a11bdf61f29517840b74153ae2e8367e
 
 Bloomfield High School, North Bloomfield, OH 2007-11 High school mathematics teacher
 
