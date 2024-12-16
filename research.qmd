@@ -14,6 +14,8 @@ Finally, I enjoy applying statistical methods to sports data and have supervised
 
 # Publications
 
+Roy, R., Hammerdahl, E., Sage, A. J., & Becker, E. (accepted 2024). Mating may enhance rapid formation of stable pair bonds in the monogamous California mouse. *Ethology*.
+
 Sage, A. J., Liu, Y., & Sato, J. (2022). From black box to shining spotlight: Using random forest prediction intervals to illuminate the impact of assumptions in linear regression. *The American Statistician*, 76(4), 414-429.
 
 Smith, J. G., Sage, A. J., McGlenn, M., Robbins, J., & Garmon, S. L. (2022). Is Sexual Racism Still Really Racism? Revisiting Callander et al.(2015) in the USA. *Archives of Sexual Behavior*, 51(6), 3049-3062.

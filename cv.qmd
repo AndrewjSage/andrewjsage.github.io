@@ -35,33 +35,42 @@ Summa Cum Laude
 
 Lawrence University, Appleton, WI Times Taught (Span) Assistant/Associate Professor of Statistics
 
-* STAT 107: Principles of Statistics: 9 sections (2018-24)    
-* STAT 255: Statistics for Data Science: 8 sections (2020-23)    
-* CMSC/STAT: Data-Scientific Programming: 6 sections (2020-24)     
-* STAT 455: Advanced Statistical Modeling: 4 sections (2021-24)     
-* MATH 340: Probability (previously MATH 240): 2 sections (2018, 22)     
-* STAT 450: Bayesian Statistics: 1 sections (2020)      
-* MATH 430: Statistical Modeling: 1 sections (2019)      
-* FRST 100: First-Year Studies: 2 sections (2019-20)     
-* Advised 20 Chandler Senior Experiences and co-advised 6 others
+-   STAT 107: Principles of Statistics: 9 sections (2018-24)\
+-   STAT 255: Statistics for Data Science: 8 sections (2020-23)\
+-   CMSC/STAT: Data-Scientific Programming: 6 sections (2020-24)\
+-   STAT 455: Advanced Statistical Modeling: 4 sections (2021-24)\
+-   MATH 340: Probability (previously MATH 240): 2 sections (2018, 22)\
+-   STAT 450: Bayesian Statistics: 1 sections (2020)\
+-   MATH 430: Statistical Modeling: 1 sections (2019)\
+-   FRST 100: First-Year Studies: 2 sections (2019-20)\
+-   Advised 20 Chandler Senior Experiences and co-advised 6 others
 
-Iowa State University, Ames, IA     
-Graduate teaching assistant, Department of Statistics Courses taught as instructor:     
-* STAT 231: Probability and Statistics for Engineering S17, F18, S18    
-* STAT 330: Probability and Statistics for Computer Science F16     
-* STAT 104: Introductory Statistics F14     
-* Lab instructor for STAT 421Survey Sampling Techniques S14    
+Iowa State University, Ames, IA\
+Graduate teaching assistant, Department of Statistics Courses taught as instructor:
 
-Miami University, Oxford, OH     
-Graduate teaching assistant, Department of Mathematics Courses taught as instructor:      
-* Math 151: Calculus I S13     
-* Math 123: Precalculus F11, S12, F12     
+-   STAT 231: Probability and Statistics for Engineering S17, F18, S18
+
+-   STAT 330: Probability and Statistics for Computer Science F16
+
+-   STAT 104: Introductory Statistics F14
+
+-   Lab instructor for STAT 421Survey Sampling Techniques S14
+
+    Miami University, Oxford, OH
+
+    Graduate teaching assistant, Department of Mathematics Courses taught as instructor:
+
+-   Math 151: Calculus I S13
+
+-   Math 123: Precalculus F11, S12, F12
 
 Bloomfield High School, North Bloomfield, OH 2007-11 High school mathematics teacher
 
 Ashtabula County Joint Vocational School, Jefferson, OH 2007-08 High school mathematics summer school teacher
 
 # PEER-REVIEWED PUBLICATIONS
+
+Roy, R., Hammerdahl, E., Sage, A. J., & Becker, E. (accepted 2024). Mating may enhance rapid formation of stable pair bonds in the monogamous California mouse. *Ethology*.
 
 Sage, A. J., Liu+, Y., & Sato+, J. (2022). From black box to shining spotlight: Using random forest prediction intervals to illuminate the impact of assumptions in linear regression. The American Statistician, 76(4), 414-429.
 
@@ -86,10 +95,10 @@ Lawrence University Summer Research Fellows \* Nina Austria (2022) \* Nafis Ahme
 # SERVICE
 
 -   Lawrence University Committees
-    -   Governance Committee (2024-25 & 2025-26)
+    -   Faculty Committee on University Governance (2024-25 & 2025-26)
     -   Curriculum Committee (2022-23 & 2023-24)
-    -   First-Year Studies Committee, (2020-21 & 2021-22)
-    -   Internal Review Board, (2019-20)
+    -   First-Year Studies Committee (2020-21 & 2021-22)
+    -   Internal Review Board (2019-20)
 -   Phi Beta Kappa Lawrence University Delta-Gamma Chapter
     -   President (2022-23 & 2023-24)
     -   Vice President (2020-21 & 2021-22)
