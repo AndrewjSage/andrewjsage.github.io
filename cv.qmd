@@ -49,20 +49,16 @@ Assistant/Associate Professor of Statistics
 Iowa State University, Ames, IA\
 Graduate teaching assistant, Department of Statistics Courses taught as instructor:
 
--   STAT 231: Probability and Statistics for Engineering S17, F18, S18
-
--   STAT 330: Probability and Statistics for Computer Science F16
-
--   STAT 104: Introductory Statistics F14
-
--   Lab instructor for STAT 421Survey Sampling Techniques S14
+-   STAT 231: Probability and Statistics for Engineering S17, F18, S18 \
+-   STAT 330: Probability and Statistics for Computer Science F16 \
+-   STAT 104: Introductory Statistics F14 \
+-   Lab instructor for STAT 421Survey Sampling Techniques S14 \
 
 Miami University, Oxford, OH \
 Graduate teaching assistant, Department of Mathematics Courses taught as instructor:
 
--   Math 151: Calculus I S13
-
--   Math 123: Precalculus F11, S12, F12
+-   Math 151: Calculus I S13 \
+-   Math 123: Precalculus F11, S12, F12 \
 
 Bloomfield High School, North Bloomfield, OH 2007-11 High school mathematics teacher
 
@@ -90,7 +86,7 @@ Sage, A. J., & Wright, S. E. (2016). Obtaining cell counts for contingency table
 
 Undergraduate research publication co-advised (with Jonathan Lhost): Brickley, D. (2022). The Effect of Academic Performance on Athletic Success in Collegiate Athletic Programs. SIAM Undergraduate Research Online, DOI: 10.1137/22S1491216
 
-Lawrence University Summer Research Fellows \* Nina Austria (2022) \* Nafis Ahmed Nunim (2022) \* Maggie McGlenn (2020) – co-advised with Jesus Smith \* Johanna Kopecky (2019) \* Katherine Liu (2019) \* Joe Sato (2019)
+8 Lawrence University Summer Research Fellows Mentored (2019-2023)
 
 # SERVICE
 
