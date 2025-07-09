@@ -18,8 +18,8 @@ comments: false
 
 ## Bio
 
-I am an associate professor of statistics at Lawrence University in Appleton, Wisconsin. I enjoy working collaboratively to find meaning in complex data. I develop and teach statistics and data science courses at all levels of the curriculum, and enjoy engaging in research with students and colleagues. My research interests include statistical machine learning, applied statistics, sports analytics, and statistics education.
+I am an associate professor of statistics at Lawrence University in Appleton, Wisconsin. I develop and teach statistics and data science courses at all levels of the curriculum, and collaborate with students, colleagues, and community partners to draw insights from data. My research interests include statistical machine learning, statistics education, applied statistical consulting, and sports analytics.   
 
-I earned my Ph.D. in statistics at Iowa State University in 2018. Prior to that, I earned a B.A. from the College of Wooster in 2007, and M.S. in mathematics from Miami University in 2013.
+I hold a Ph.D. in statistics from Iowa State University, as well  M.S. degrees in statistics from Iowa State and mathematics from Miami University, and a B.A. from the The College of Wooster.   
 
-In addition to statistics, I enjoy traveling and sight-seeing with my wife, growing apples and berries in the yard, running/jogging, watching sports (especially baseball), and playing fetch with my dog, Lily.
+In addition to statistics, I enjoy traveling and sight-seeing, growing apples and berries, attending musicals, running, watching sports (especially baseball), and playing fetch with my dog, Lily.
