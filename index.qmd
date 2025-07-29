@@ -1,6 +1,6 @@
 ---
 title: "Andrew J. Sage"
-image: images/profile.jpeg
+image: images/profile.jpg
 about:
   template: trestles
   links:
